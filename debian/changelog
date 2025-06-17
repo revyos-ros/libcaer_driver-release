@@ -1,0 +1,26 @@
+ros-humble-libcaer-driver (1.5.1-1bookworm) bookworm; urgency=high
+
+  * stop using ament_target_dependencies
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Thu, 22 May 2025 00:00:00 -0000
+
+ros-humble-libcaer-driver (1.5.0-1bookworm) bookworm; urgency=high
+
+  * 16 bit APS image and color cam support
+  * support for recording under Jazzy+
+  * updated installation instructions
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Thu, 10 Apr 2025 00:00:00 -0000
+
+ros-humble-libcaer-driver (1.0.3-1bookworm) bookworm; urgency=high
+
+  * remove repos file, build only on recent distros
+  * use libcaer_vendor
+  * initial release on rolling?
+  * Contributors: Bernd Pfrommer, Thies Lennart Alff
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Thu, 30 May 2024 00:00:00 -0000
+
+
