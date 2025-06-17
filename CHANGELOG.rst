@@ -2,16 +2,21 @@
 Changelog for package libcaer_driver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.2.3 (2024-05-30)
+1.5.1 (2025-05-22)
+------------------
+* stop using ament_target_dependencies
+* Contributors: Bernd Pfrommer
+
+1.5.0 (2025-04-10)
+------------------
+* 16 bit APS image and color cam support
+* support for recording under Jazzy+
+* updated installation instructions
+* Contributors: Bernd Pfrommer
+
+1.0.3 (2024-05-30)
 ------------------
 * remove repos file, build only on recent distros
 * use libcaer_vendor
-* support sync with additional options for launch files
-* introduced time_reset_delay to make sync work
-* fix SEGV bug: check for nullptr in rosparam declaration
-* Contributors: Bernd Pfrommer
-
-1.2.1 (2024-01-16)
-------------------
-* initial release of ROS2 package
+* initial release on rolling?
 * Contributors: Bernd Pfrommer, Thies Lennart Alff
