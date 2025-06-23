@@ -1,3 +1,26 @@
+## libcaer_driver (jazzy) - 1.5.1-1
+
+The packages in the `libcaer_driver` repository were released into the `jazzy` distro by running `/root/venv/bin/bloom-release -r jazzy libcaer_driver --override-release-repository-push-url git@github.com:revyos-ros/libcaer_driver-release.git --edit` on `Mon, 23 Jun 2025 05:19:10 -0000`
+
+The `libcaer_driver` package was released.
+
+Version of package(s) in repository `libcaer_driver`:
+
+- upstream repository: https://github.com/ros-event-camera/libcaer_driver.git
+- release repository: https://github.com/revyos-ros/libcaer_driver-release.git
+- rosdistro version: `1.5.1-1`
+- old version: `1.3.3-1`
+- new version: `1.5.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## libcaer_driver (humble) - 1.5.1-1
 
 The packages in the `libcaer_driver` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble libcaer_driver --override-release-repository-push-url git@github.com:revyos-ros/libcaer_driver-release.git --edit` on `Tue, 17 Jun 2025 04:27:37 -0000`
